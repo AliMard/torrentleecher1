@@ -1,4 +1,4 @@
-peerflix-server
+Torrent Leech
 ===============
 
 [![NPM Version][npm-image]][npm-url]
